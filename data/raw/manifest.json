@@ -1,0 +1,48 @@
+{
+  "source_id": "ppt_008",
+  "course_id": "nptel_robotics",
+  "lecture_number": 8,
+  "title": "DH Algorithm",
+  "source_type": "pptx",
+  "origin": "derived",
+  "primary": false,
+  "derived_from": "vid_008",
+  "uri": null,
+  "local_path": "data/raw/nptel_robotics/ppt/lecture_08.pptx",
+  "license": "derived_from_source",
+  "source_license": "CC BY-NC-SA",
+  "attribution": "NPTEL / IIT Madras",
+  "status": "ready"
+}
+
+{
+  "source_id": "pdf_003",
+  "course_id": "nptel_robotics",
+  "lecture_number": 3,
+  "title": "Kinematics - Coordinate Transformations",
+  "source_type": "pdf",
+  "origin": "original",
+  "primary": true,
+  "derived_from": null,
+  "uri": null,
+  "local_path": "data/raw/nptel_robotics/pdf/lecture_03.pdf",
+  "license": "CC BY-NC-SA",
+  "attribution": "NPTEL / IIT Madras",
+  "status": "ready"
+}
+
+{
+  "source_id": "vid_008",
+  "course_id": "nptel_robotics",
+  "lecture_number": 8,
+  "title": "DH Algorithm",
+  "source_type": "video",
+  "origin": "original",
+  "primary": true,
+  "derived_from": null,
+  "uri": "YOUR_YOUTUBE_URL",
+  "local_path": null,
+  "license": "CC BY-NC-SA",
+  "attribution": "NPTEL / IIT Madras",
+  "status": "ready"
+}
